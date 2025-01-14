@@ -1,0 +1,17 @@
+/* Basic Vanilla CSS */
+
+#main-body{
+    padding: 10px;
+}
+
+#form-body{
+    padding: 100px;
+}
+
+#alert-body{
+    padding: 100px;
+}
+
+#alert{
+    padding: 50px;
+}
